@@ -8,14 +8,17 @@
 button {
   margin-left: 40%;
   background-color: brown;
+  border: 1px solid black;
 }
 button:hover {
   background-color: black;
   border-radius: 4vh;
+  border: 2px solid white;
 }
 button > a {
-  color: green;
+  color: lightgreen;
   text-decoration: none;
+  font-weight: 400;
 }
 button > a:hover {
   color: red;
