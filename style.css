@@ -17,7 +17,7 @@ button:hover {
   border: 2px solid white;
 }
 button > a {
-  color: yellow;
+  color: lightgreen;
   text-decoration: none;
 }
 button > a:hover {
