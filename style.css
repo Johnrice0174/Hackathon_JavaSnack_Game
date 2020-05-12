@@ -7,12 +7,10 @@
 /*--------- MAIN --------------*/
 .access {
   margin-left: 40%;
-  background color: brown;
-  padding: 2vh;
+  background-color: brown;
 }
 .access:hover {
-  background color: black;
-  font-weight: bold;
+  background-color: black;
 }
 .access > a {
   color: green;
@@ -22,6 +20,7 @@
   color: red;
   border-radius: 4vh;
   font-weight: bold;
+  text-decoration: none;
 }
 
 main {
