@@ -5,19 +5,19 @@
 }
 
 /*--------- MAIN --------------*/
-#access {
+button {
   margin-left: 40%;
   background-color: brown;
 }
-#access:hover {
+button:hover {
   background-color: black;
   border-radius: 4vh;
 }
-#access > a {
+button > a {
   color: green;
   text-decoration: none;
 }
-#access > a:hover {
+button > a:hover {
   color: red;
   font-weight: bold;
   text-decoration: none;
