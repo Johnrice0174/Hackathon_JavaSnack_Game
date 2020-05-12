@@ -11,6 +11,7 @@
 }
 .access:hover {
   background-color: black;
+  border-radius: 4vh;
 }
 .access > a {
   color: green;
@@ -18,7 +19,6 @@
 }
 .access > a:hover {
   color: red;
-  border-radius: 4vh;
   font-weight: bold;
   text-decoration: none;
 }
