@@ -6,6 +6,7 @@
 
 /*--------- MAIN --------------*/
 button {
+  margin-bottom: 4vh;
   margin-left: 40%;
   background-color: brown;
   border: 1px solid black;
@@ -16,9 +17,8 @@ button:hover {
   border: 2px solid white;
 }
 button > a {
-  color: lightgreen;
+  color: yellow;
   text-decoration: none;
-  font-weight: 400;
 }
 button > a:hover {
   color: red;
