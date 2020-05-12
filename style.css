@@ -5,6 +5,25 @@
 }
 
 /*--------- MAIN --------------*/
+#access-js-finalproj-game {
+  margin-left: 40%;
+  background color: brown;
+  padding: 2vh;
+}
+#access-js-finalproj-game:hover {
+  background color: black;
+  font-weight: bold;
+}
+#access-js-finalproj-game > a {
+  color: green;
+  text-decoration: none;
+}
+#access-js-finalproj-game > a:hover {
+  color: red;
+  border-radius: 4vh;
+  font-weight: bold;
+}
+
 main {
   background-color: grey;
 }
