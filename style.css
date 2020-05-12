@@ -5,22 +5,22 @@
 }
 
 /*--------- MAIN --------------*/
-button {
+#wesh {
   margin-bottom: 4vh;
   margin-left: 40%;
   background-color: brown;
   border: 1px solid black;
 }
-button:hover {
+#wesh:hover {
   background-color: black;
   border-radius: 4vh;
   border: 2px solid white;
 }
-button > a {
+#wesh > a {
   color: lightgreen;
   text-decoration: none;
 }
-button > a:hover {
+#wesh > a:hover {
   color: red;
   font-weight: bold;
   text-decoration: none;
@@ -37,12 +37,12 @@ h3 {
   margin-left: 10%;
 }
 
-canvas{
+/*canvas{
   margin-left: 30%;
   margin-top: 5%;
   margin-bottom: 5%;
   background-image: url(https://zupimages.net/up/20/10/ds16.jpg);
-}
+}*/
 
 
 /*--------------FOOTER------------ */
